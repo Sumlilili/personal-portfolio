@@ -5,7 +5,7 @@ import About from './components/about'
 import Contact from './components/contact'
 import Project from './components/project'
 import Layout from './components/Layout'
-import Services from './components/service'
+import Services from './components/services'
 const MainRouter = () => {
 return (
 <div>
